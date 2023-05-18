@@ -1,0 +1,17 @@
+C:\Users\mikeb\source\repos\Balls\bin\Debug\net7.0-windows\Balls.exe
+C:\Users\mikeb\source\repos\Balls\bin\Debug\net7.0-windows\Balls.deps.json
+C:\Users\mikeb\source\repos\Balls\bin\Debug\net7.0-windows\Balls.runtimeconfig.json
+C:\Users\mikeb\source\repos\Balls\bin\Debug\net7.0-windows\Balls.dll
+C:\Users\mikeb\source\repos\Balls\bin\Debug\net7.0-windows\Balls.pdb
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.csproj.AssemblyReference.cache
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.Form1.resources
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.csproj.GenerateResource.cache
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.AssemblyInfoInputs.cache
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.AssemblyInfo.cs
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.csproj.CoreCompileInputs.cache
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.dll
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\refint\Balls.dll
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.pdb
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\Balls.genruntimeconfig.cache
+C:\Users\mikeb\source\repos\Balls\obj\Debug\net7.0-windows\ref\Balls.dll
