@@ -9,10 +9,9 @@ public partial class Form1 : Form
         InitializeComponent();
     }
 
-    Game game;
     private void Form1_Load(object sender, EventArgs e)
     {
-        game = new Game(this.ClientRectangle);
+        Game game = new Game(this.ClientRectangle);
         System.Windows.Forms.Timer timer = new System.Windows.Forms.Timer();
         timer.Interval = 50;
         timer.Tick += (s, ev) =>
@@ -20,11 +19,12 @@ public partial class Form1 : Form
             Invalidate();
         };
         timer.Start();
+
+        this.Paint += (s, ev) => {
+            game.move();
+            game.draw(ev.Graphics);
+        };
     }
 
-    private void Form1_Paint(object sender, PaintEventArgs e)
-    {
-        game.move();
-        game.draw(e.Graphics);
-    }
+
 }
